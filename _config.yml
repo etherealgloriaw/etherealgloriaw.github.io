@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi! I am a fourth-year computer science student at UBC. Finishing 8-month developer internship in Sierra Wireless, now I am looking for the full-time software developer/data engineer/analytics enginner jobs in 2023 fall. Besides the cs student, I am also a part-time reseach assistant in digital humanity/computational social science. While my current research experience is focus on China/Chinese diaspora studies, I always want to explore new opportunities to apply my skills in data visualization and statistic analysis.  
+about_me_description: Hi! I am a fourth-year computer science student at UBC. Finishing 8-month developer internship in Sierra Wireless, now I am looking for the full-time software developer/data engineer/analytics enginner jobs in 2023 fall based in Canada. Besides the cs student, I am also a part-time reseach assistant in digital humanity/computational social science. While my current research experience is focus on China/Chinese diaspora studies, I always want to explore new opportunities to apply my skills in data visualization and statistic analysis.  
 
 # SKILLS SECTION
 # show_skills_card:
