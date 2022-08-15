@@ -24,7 +24,7 @@
 
 - name: Bing-Carrier-Tracker
   descr: "Bing Carrier Tracker is a web scraper for tracking the packages for UPS and Fedex based on bing's tracking system. Users could use this script to get the recent status of their packages and update to other systems."
-   tags:
-    - tag: Python
-    - tag: BeautifulSoup4
+  tags:
+   - tag: Python
+   - tag: BeautifulSoup4
 
