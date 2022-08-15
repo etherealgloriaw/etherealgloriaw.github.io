@@ -27,4 +27,19 @@
   tags:
    - tag: Python
    - tag: BeautifulSoup4
+    
+- name: UBC Courses Querying System
+  descr: "Use the UBC courses and classroom dataset to write a backend of querying related information with the html front end for user to operate."
+  tags:
+   - tag: TypeScript
+   - tag: NodeJS
+   - tag: HTML
+   - tag: CSS
+
+   
+- name: Video Games Database Simulating Steam
+  descr: "Designed a relational database to manage a video games selling and collecting market simulating Steam using Oracle and SQL with the UI based in Java"
+  tags:
+   - tag: Java
+   - tag: SQL
 
