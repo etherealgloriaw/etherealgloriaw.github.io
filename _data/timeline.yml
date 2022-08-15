@@ -17,45 +17,48 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Data Scientist
+  title-url: https://scarp.ubc.ca
+  date: May 2022 - Aug 2022
+  subtitle: Work in project Digital housing search and Ethnical renters in Vancouver
   timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Python
+    - tag: AWS
+    - tag: QGIS
+
+- title: Undergrad Academic Assistent
+  title-url: https://sites.google.com/view/shoufuyin/publications?authuser=0
+  date: Feb 2022 - Apr 2022
+  subtitle: Work in project Visualizing Divergence: Rhetorical Education, Literary Culture, and Historical Imagination in China and Korea (ca. 1314–1644)
+  timeline-side: left
+  tags:
+    - tag: Python
+    - tag: Gephi
+
+- title: Sierra Wireless
+  title-url: https://www.sierrawireless.com
+  date: Jan 2022 - Aug 2022
+  subtitle: Application Developer as Intern
+  tags:
+    - tag: C#
+    - tag: asp.net
+    - tag: SQL
+    - tag: SSRS
+  timeline-side: right
+  
+- title: DataCVG
+  title-url: https://www.datacvg.com/en/index.aspx
+  date: May 2021 - Aug 2021
+  subtitle: Business Intelligence Analyst as Intern
+  tags:
+    - tag: Figma
+    - tag: PowerPoint
+    - tag: SQL
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: The University of British Columbia 
+  title-url: https://www.ubc.ca
+  date: Sept 2019 - May 2023
+  subtitle: Bsc. Computer Science
   timeline-side: left
